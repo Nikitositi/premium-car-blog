@@ -1,0 +1,28 @@
+.cards__item {
+  min-height: 265px;
+  color: #fff;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.cards__item:nth-child(2) {
+  background: url('../../../images/card2.jpg') no-repeat center;
+  background-size: contain;
+}
+
+.cards__item:nth-child(3) {
+  background: url('../../../images/card3.jpg') no-repeat center;
+  background-size: contain;
+}
+
+.cards__item:nth-child(4) {
+  background: url('../../../images/card4.jpg') no-repeat center;
+  background-size: contain;
+}
+
+.cards__item:nth-child(5) {
+  background: url('../../../images/card5.jpg') no-repeat center;
+  background-size: contain;
+}

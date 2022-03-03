@@ -14,3 +14,19 @@
 
 /* Logo */
 @import url(../blocks/logo/logo.css);
+
+/* Content */
+@import url(../blocks/content/content.css);
+
+/* Cards */
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__item/_big/cards__item_big.css);
+@import url(../blocks/cards/__description/cards__description.css);
+@import url(../blocks/cards/__description/_big/cards__description_big.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__title/_big/cards__title_big.css);
+@import url(../blocks/cards/__sign/cards__sign.css);
+@import url(../blocks/cards/__sign/_big/cards__sign_big.css);
+@import url(../blocks/cards/__topic/cards__topic.css);
+@import url(../blocks/cards/__topic/_big/cards__topic_big.css);

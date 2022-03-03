@@ -1,0 +1,5 @@
+.cards__item_big {
+  grid-row: 1/3;
+  background: url('../../../../images/card1.jpg') no-repeat center;
+  background-size: contain;
+}
