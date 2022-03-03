@@ -1,0 +1,23 @@
+.header__button {
+  border: none;
+  margin: 0;
+  padding: 0;
+  background: none;
+  cursor: pointer;
+  padding: 8px;
+}
+
+.header__button::after {
+  display: block;
+  content: "";
+  width: 100%;
+  height: 2px;
+  background-color: #4A90E2;
+  margin-top: 30%;
+  opacity: 0;
+  transition: opacity .3s ease-in-out;
+}
+
+.header__button:hover::after {
+  opacity: 1;
+}
