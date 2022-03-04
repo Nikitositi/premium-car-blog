@@ -1,0 +1,9 @@
+.posts__text {
+  max-width: 84%;
+  margin: 0;
+  margin-top: 14px;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #666;
+}

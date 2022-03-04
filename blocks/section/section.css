@@ -1,0 +1,6 @@
+.section {
+  display: grid;
+  grid-template-columns: 770px 1fr;
+  grid-template-rows: max-content;
+  margin-top: 80px;
+}

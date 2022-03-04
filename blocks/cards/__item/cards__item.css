@@ -1,7 +1,7 @@
 .cards__item {
   min-height: 265px;
   color: #fff;
-  border-radius: 3px;
+  border-radius: 5px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
